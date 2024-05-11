@@ -24,7 +24,7 @@ URLResponseViewer is a web tool that allows users to enter any URL and view the 
 3. Learning:- It’s a valuable tool for educational purposes, allowing students and new developers to understand how web communication works.
 4. Troubleshooting:- It aids in troubleshooting issues with web pages by showing the HTTP headers and server responses.
 5. Optimization:- By analyzing the responses, developers can optimize performance, such as reducing size or time.
-6. Security:- It can be used to check for security headers and other security-related information in the response.
+6. Security:- It can be used to check for security security-related information in the response.
 
 ## Preview
 ![Screenshot (53)](https://github.com/Harshit2012/URLResponseViewer/assets/105143145/4659b1c4-5c98-4ad2-b3e1-10a89d41ea8e)
